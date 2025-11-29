@@ -1,8 +1,5 @@
-<!-- Header Section -->
 <h1 align="center">👋 Hi, I'm SangBeom</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" />
-</p>
+<h3 align="center">A passionate developer from Korea 🇰🇷</h3>
 
 ---
 
@@ -26,15 +23,18 @@
 
 ---
 
-### 📬 Contact Me
-📧 **Naver:** [tjtkdqja1215@naver.com](mailto:tjtkdqja1215@naver.com)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SB135246&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB135246&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SB135246&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160px"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SB135246&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</p>
+### 📬 Contact
+📧 [tjtkdqja1215@naver.com](mailto:tjtkdqja1215@naver.com)
