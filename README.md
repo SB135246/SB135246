@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">SangBeom</span></h1>
+<h1 align="center">👋 Hi, I'm SangBeom</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" />
 </p>
@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SB135246&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
