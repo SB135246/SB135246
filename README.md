@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Welcome%20to%20SangBeom%20GitHub%20!!&fontAlign=50&fontAlignY=50&fontSize=40&fontColor=ffffff&customColorList=0,2,4,5,6,9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=Welcome%20to%20SangBeom%20GitHub%20!!&fontAlign=50&fontAlignY=50&fontSize=45&fontColor=ffffff&customColorList=0,2,4,5,6,9" />
 </p>
 
 ---
@@ -28,12 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SB135246&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB135246&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SB135246&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SB135246&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SB135246&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SB135246&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
