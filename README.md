@@ -8,20 +8,20 @@
 ### 💻 Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-87CEFA?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frameworks**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-98FB98?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Tools**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-B19CD9?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-9370DB?style=for-the-badge&logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFDAB9?style=for-the-badge&logo=github&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **ETC**  
-![Notion](https://img.shields.io/badge/Notion-FDF5E6?style=for-the-badge&logo=notion&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-E6E6FA?style=for-the-badge&logo=discord&logoColor=5865F2)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
@@ -40,9 +40,3 @@
 
 ### 📬 Contact
 📧 [tjtkdqja1215@naver.com](mailto:tjtkdqja1215@naver.com)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,4,5,6,9" />
-</p>
