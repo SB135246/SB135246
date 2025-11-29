@@ -27,13 +27,12 @@
 ---
 
 ### 📬 Contact Me
-📧 **Gmail:** [yourname@gmail.com](mailto:yourname@gmail.com)  
-💬 **Naver:** [yourname@naver.com](mailto:yourname@naver.com)
+📧 **Naver:** [tjtkdqja1215@naver.com](mailto:tjtkdqja1215@naver.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
