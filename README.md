@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=Welcome%20to%20SangBeom%20GitHub%20!!&fontAlign=50&fontAlignY=50&fontSize=45&fontColor=ffffff&customColorList=0,2,4,5,6,9" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=SangBeom&fontSize=70&color=0:8EC5FC,100:E0C3FC&stroke=8EC5FC" />
 </p>
 
 ---
