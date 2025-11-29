@@ -6,8 +6,6 @@
 
 ## 💻 Tech Stack
 
----
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
@@ -24,8 +22,6 @@
 
 ## 📊 Most Used Languages
 
----
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SB135246&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
@@ -34,14 +30,9 @@
 
 ## 🏅 Awards
 
----
-
-- **[2025-11]** (우수상) **제1회 영남대학교 SW중심대학 융합그룹 실무 경진대회** | 영남대학교 SW중심대학사업단 🎈
+- **[2025-11]** (우수상) **제1회 교내 SW중심대학 융합그룹 실무 경진대회** | 교내 SW중심대학사업단 🎈
 
 <br>
 
 ## 📬 Contact
-
----
-
 📧 [tjtkdqja1215@naver.com](mailto:tjtkdqja1215@naver.com)
